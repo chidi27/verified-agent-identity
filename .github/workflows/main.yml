@@ -3,7 +3,7 @@ name: chidi27
 on:
   workflow_dispatch:
     inputs:
-      agent_name:amaefulehernest
+      agent_name:
         description: 'finder'
         required: true
         default: 'finder'
